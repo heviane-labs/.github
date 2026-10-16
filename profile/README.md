@@ -1,7 +1,5 @@
 <h2>
   <span>Olá!👋 Eu sou a Heviane</span>
-	<img align="right" alt="Stars" src="https://img.shields.io/github/stars/heviane-labs">
-	<img align="right" alt="Followers" src="https://img.shields.io/github/followers/heviane-labs?style=social">
 </h2>
 
 Profissional com mais de 10 anos de experiência em desenvolvimento de software.
