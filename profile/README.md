@@ -13,6 +13,13 @@ Sinta-se à vontade para entrar em contato! 🚀 <br/>
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=heviane-labs&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub de Heviane Labs"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heviane-labs&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Heviane Labs"/>
+  <!-- ORG-STATS-START -->
+  ## Estatísticas da organização heviane-labs
+
+  - Repositórios: 0
+  - Estrelas totais: 0
+  - Forks totais: 0
+  - Linguagens principais: —
+
+  <!-- ORG-STATS-END -->
 </div>
