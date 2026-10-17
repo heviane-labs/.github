@@ -9,17 +9,3 @@ Sinta-se à vontade para entrar em contato! 🚀 <br/>
 
 📧 heviane@gmail.com <br/>
 💼 <a href="https://www.linkedin.com/in/hevianebastos" target="_blank" rel="noopener noreferrer">Linkedin</a>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <!-- ORG-STATS-START -->
-  ## Estatísticas da organização heviane-labs
-
-  - Repositórios: 0
-  - Estrelas totais: 0
-  - Forks totais: 0
-  - Linguagens principais: —
-
-  <!-- ORG-STATS-END -->
-</div>
