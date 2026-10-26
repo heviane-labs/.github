@@ -6,6 +6,14 @@ Laboratório de experimentos, protótipos e projetos em desenvolvimento. Este es
 
 ---
 
+## 🛠️ Tecnologias e Linguagens
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heviane-labs&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=nome-de-um-repo-privado" alt="Top Langs"/>
+</div>
+
+---
+
 ## 📊 Estatísticas
 
 <div align="left">
