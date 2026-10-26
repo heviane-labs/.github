@@ -1,19 +1,13 @@
-# Heviane Labs
+# 🧪 Heviane Labs
 
-Laboratório de experimentos, protótipos e projetos em desenvolvimento. Este espaço é dedicado à prototipação, testes técnicos e construções de software em andamento.
+Bem-vindo ao **Heviane Labs**! Este é o meu espaço dedicado a experimentos, protótipos e projetos em desenvolvimento. Este espaço é dedicado à prototipação, testes técnicos e construções de software em andamento.
+
+A proposta desta organização é isolar meus laboratórios de estudo do meu perfil principal, mantendo um histórico organizado de evolução contínua.
 
 > Para ver meus projetos consolidados em produção, visite meu perfil principal: [github.com/heviane](https://github.com/heviane)
 
 ---
-
-## 🛠️ Tecnologias e Linguagens
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heviane-labs&layout=compact&langs_count=8&theme=dracula&hide_border=true&exclude_repo=nome-de-um-repo-privado" alt="Top Langs"/>
-</div>
-
----
-
+<!--
 ## 📊 Estatísticas
 
 <div align="left">
@@ -22,6 +16,7 @@ Laboratório de experimentos, protótipos e projetos em desenvolvimento. Este es
 </div>
 
 ---
+-->
 
 ## 📬 Contato
 
