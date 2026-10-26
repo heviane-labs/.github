@@ -22,3 +22,8 @@ A proposta desta organização é isolar meus laboratórios de estudo do meu per
 
 * 📧 Email: heviane@gmail.com
 * 💼 [LinkedIn](https://www.linkedin.com/in/hevianebastos)
+* 👤 Perfil Principal: [@heviane](https://github.com/heviane)
+
+---
+
+*Organização mantida com foco em aprendizado contínuo, boas práticas e evidência técnica.*
